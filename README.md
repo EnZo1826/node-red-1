@@ -21,11 +21,11 @@ The purpose of the local installation is allow developers to create modules whic
 
 To install it locally, you just need to clone this repository
 ```
-git clone https://github.com/netbeast/beast-red.git
+git clone https://github.com/netbeast/node-red.git
 ```
 Then go to the directory that has been created when cloning the repository
 ```
-cd beast-red
+cd node-red
 ```
 Install all dependencies needed by using npm
 ```
