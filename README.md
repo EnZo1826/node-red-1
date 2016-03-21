@@ -12,6 +12,7 @@ If you want to know more about Node-red visit its [website](http://nodered.org) 
 
 * [Install Locally](#Local)
 * [Install on the Netbeast Dashboard](#Dashboard)
+* [I have installed Node-RED and want to install the Netbeast node](#Node)
 
 <a name="Local">
 ## Local Installation
@@ -48,6 +49,11 @@ After installing the app you will be able to run it from the **Apps** section in
 
 If you want to know how to do this, go to this useful guide [netbeast docs](http://docs.netbeast.co/chapters/creating_an_application/install_it_on_the_dashboard.html)
 
+<a name="Node">
+## Add Netbeast Node to your Node-RED
+It's possible that you have installed Node-RED and you only need to add the Netbeast node to your own Node-RED directory.
+
+If it is your situation, check out this [repository](http://github.com/netbeast/node-red-contrib-netbeast). In this repository we have added the files you will need to install our node to your Node-RED.
 
 ## Netbeast API module
 We have added a new module to integrate the Netbeast api. It has been developed by Netbeast Team.
