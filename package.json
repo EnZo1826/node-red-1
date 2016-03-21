@@ -1,13 +1,13 @@
 {
-  "name": "beast-red",
+  "name": "node-red",
   "version": "0.1",
-  "description": "A netbeast node for node-red",
+  "description": "Netbeast app to program Nodejs using node-red",
   "homepage": "http://nodered.org",
   "author": "Netbeast",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/netbeast/beast-red"
+    "url": "https://github.com/netbeast/node-red"
   },
   "main": "red/red.js",
   "scripts": {
