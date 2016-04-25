@@ -42,7 +42,7 @@
     "media-typer": "0.3.0",
     "mqtt": "1.7.2",
     "mustache": "2.2.1",
-    "netbeast": "^1.0.5",
+    "netbeast": "^1.0.6",
     "node-red-node-email": "0.1.*",
     "node-red-node-feedparser": "0.1.*",
     "node-red-node-rbe": "0.1.*",
