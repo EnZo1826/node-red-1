@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/netbeast/node-red"
   },
-  "main": "red/red.js",
+  "main": "red.js",
   "scripts": {
     "start": "node red.js",
     "test": "./node_modules/.bin/grunt"
