@@ -24,7 +24,7 @@
     "iot",
     "flow"
   ],
-  "logo": "node-red.png",
+  "logo": "node-red-app-icon.png",
   "dependencies": {
     "basic-auth": "1.0.3",
     "bcryptjs": "2.3.0",
