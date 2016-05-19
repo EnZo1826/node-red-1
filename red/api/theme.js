@@ -27,7 +27,7 @@ var defaultContext = {
     },
     header: {
         title: "Node-RED",
-        image: "red/images/node-red.png"
+        image: "red/images/deploy-full-o.png"
     },
     asset: {
         red: (process.env.NODE_ENV == "development")? "red/red.js":"red/red.min.js"
